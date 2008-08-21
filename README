@@ -1,0 +1,21 @@
+= Ruby Learning Tests
+
+Unit tests I wrote way back when I started learning Ruby,
+as described on my blog at:
+
+  http://clarkware.com/cgi/blosxom/2005/03/18#RLT1
+
+== Usage
+
+To run all the tests, use:
+
+  rake
+  
+== Write Your Own!
+
+This project can be found on GitHub at the following URL.
+
+  http://github.com/clarkware/ruby-learning-tests/
+
+If you would like to write your own tests, please fork the
+repository and have a lot of fun!
